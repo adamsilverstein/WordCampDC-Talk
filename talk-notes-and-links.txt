@@ -1,0 +1,42 @@
+### Notes and Links
+
+
+1. Think about JavaScript
+* https://codex.wordpress.org/Validating_Sanitizing_and_Escaping_User_Data
+* https://vip.wordpress.com/2015/03/25/preventing-xss-in-javascript/
+* https://hackerone.com/wordpress
+* https://github.com/WordPress/gutenberg or https://wordpress.org/plugins/gutenberg/
+
+2. Turn off JavaScript
+* Quick Javascript Switcher chrome extension https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje?hl=en
+
+3. Turn off some JavaScript
+* tag managers:
+  http://www.adobe.com/enterprise/cloud-platform/activation.html
+  https://www.google.com/analytics/tag-manager/
+  https://www.openx.com/publishers/openx-mezzobit/
+  https://tealium.com/products/tealium-iq-tag-management-system/
+* https://github.com/gorhill/uBlock
+
+4. Don’t rely on JavaScript
+
+5. Safe JavaScript output
+
+6. Avoid dangerouslySetInnerHtml
+
+7. Use JavaScript for good
+
+8. Verify intent
+* Nonces - https://developer.wordpress.org/themes/theme-security/using-nonces/
+* Recaptcha - https://wordpress.org/plugins/invisible-recaptcha/
+
+
+9. Minimize external dependencies
+* https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/
+
+
+10. Write Defensive JavaScript
+* Wat? https://www.destroyallsoftware.com/talks/wat
+* Encryption in JavaScript - https://github.com/PeculiarVentures/PKI.js
+
+11. People are a security vector
