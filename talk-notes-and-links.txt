@@ -30,6 +30,7 @@
 8. Verify intent
 * Nonces - https://developer.wordpress.org/themes/theme-security/using-nonces/
 * Recaptcha - https://wordpress.org/plugins/invisible-recaptcha/
+* Recaptcha - https://developers.google.com/recaptcha/
 
 
 9. Minimize external dependencies
