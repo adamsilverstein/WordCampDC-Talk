@@ -23,6 +23,7 @@
 5. Safe JavaScript output
 
 6. Avoid dangerouslySetInnerHtml
+* https://github.com/wrakky/react-html-parser
 
 7. Use JavaScript for good
 
