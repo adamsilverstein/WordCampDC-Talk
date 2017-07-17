@@ -3,7 +3,7 @@
 
 	// $ and win are protected here.
 
-}( jQuery, window ) );
+} )( jQuery, window );
 
 
 	// Confirm the click action in a modal.
